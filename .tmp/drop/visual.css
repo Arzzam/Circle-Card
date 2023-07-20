@@ -3,7 +3,7 @@ p {
   font-weight: bold;
 }
 p em {
-  background: yellow;
+  background: red;
   padding: 5px;
 }
 
